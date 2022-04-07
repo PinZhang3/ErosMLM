@@ -1,7 +1,7 @@
 # ErosMLM
-{Download from the "Releases 1" at the right side of the this website page!}
+{Download from the "Releases 1" on the right side of this website page!}
 
-This is a machine learning based graphical user interface platform for modelling soil properties or similar issues in other domains. This GUI is open to community now. It includes source code, data, tutorial in both Chinese and English, and manual book. Welcome to use! Such GUI is clearly introduced in the following paper:
+This is a machine learning based graphical user interface (GUI) platform for modelling soil properties or similar issues in other domains. This GUI is open to community now. It includes exe., data, tutorial in both Chinese and English, and manual. Welcome to use! The details of this GUI is clearly introduced in the following paper:
 
 Zhang P, Yin ZY, Jin YF, 2021. Machine Learning-Based Modelling of Soil Properties for Geotechnical Design: Review, Tool Development and Comparison. Archives of Computational Methods in Engineering. 29, 1229-1245. [https://link.springer.com/article/10.1007/s11831-021-09615-5]
 
